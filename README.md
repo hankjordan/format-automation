@@ -10,9 +10,7 @@ This repository contains a set of tools that allow you to automate the formattin
 - [ ] Combine repository tools
 
 ## spaces-to-tabs ##
-<aside class="warning">
-  This program recurisvely edits files. Be careful with what you point it at.
-</aside>
+**WARNING: This program recurisvely edits files. Be careful with what you point it at.**
 
 > usage: spaces.py directory extension
 
