@@ -3,7 +3,7 @@ This repository contains a set of tools that allow you to automate the formattin
 
 **TODO**
 - [x] Working code for spaces-to-tabs
-- [ ] Implementation of argparse with spaces-to-tabs
+- [x] Implementation of argparse with spaces-to-tabs
 - [ ] Working code for eof-newline-remover
 - [ ] Working code for newline-converter
 - [ ] Working code for eol-space-remover
@@ -14,4 +14,4 @@ This repository contains a set of tools that allow you to automate the formattin
 
 > usage: spaces.py directory extension
 
-A simple python program that converts spaces to tabs, ecursively.
+A simple python program that converts spaces to tabs, recursively.
