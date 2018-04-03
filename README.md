@@ -4,14 +4,21 @@ This repository contains a set of tools that allow you to automate the formattin
 **TODO**
 - [x] Working code for spaces-to-tabs
 - [x] Implementation of argparse with spaces-to-tabs
-- [ ] Working code for eof-newline-remover
-- [ ] Working code for newline-converter
+- [x] Working code for crlf-to-lf
+- [ ] Create class for similar tools
 - [ ] Working code for eol-space-remover
-- [ ] Combine repository tools
+- [ ] Working code for eof-newline-remover
 
 ## spaces-to-tabs ##
 **WARNING: This program recurisvely edits files. Be careful with what you point it at.**
 
 > usage: spaces.py directory extension
 
-A simple python program that converts spaces to tabs, recursively.
+A simple python program that converts spaces to tabs and vice-versa, recursively.
+
+## crlf-to-lf ##
+**WARNING: This program recurisvely edits files. Be careful with what you point it at.**
+
+> usage: spaces.py directory extension
+
+A simple python program that converts CRLF to LF line endings and vice-versa, recursively.
