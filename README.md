@@ -19,6 +19,6 @@ A simple python program that converts spaces to tabs and vice-versa, recursively
 ## crlf-to-lf ##
 **WARNING: This program recurisvely edits files. Be careful with what you point it at.**
 
-> usage: spaces.py directory extension
+> usage: crlf.py directory extension
 
 A simple python program that converts CRLF to LF line endings and vice-versa, recursively.
