@@ -14,4 +14,4 @@ This repository contains a set of tools that allow you to automate the formattin
 
 > usage: spaces.py directory extension
 
-A simple python program that converts spaces to tabs, recursively.
+A simple python program that converts spaces to tabs, ecursively.
